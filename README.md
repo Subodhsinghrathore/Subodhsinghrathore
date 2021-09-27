@@ -9,4 +9,4 @@ Denoising Autoencoders (SDA)
 - 💬 Ask me about standard cp problems and algorithms 
 - 📫 How to reach me: LinkedIn : Subodh Kumar-[https://www.linkedin.com/in/subodh-singh-/](https://www.linkedin.com/in/subodh-singh-/)
 - ⚡ Fun fact: Coding will soon be as important as reading
-- ![stack Overflow](http://lmsotfy.com/so.png)
+- ![stack Overflow](https://media.geeksforgeeks.org/wp-content/cdn-uploads/Competitive-Programming-1.jpg)
