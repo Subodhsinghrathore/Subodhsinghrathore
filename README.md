@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working onEye movement event classification using Stacked
+- 🔭 I’m currently working on a Project --> Eye movement event classification using Stacked
 Denoising Autoencoders (SDA)
 - 🌱 I’m currently learning Data Structures & Algorithms, Python
 - 👯 I’m looking to collaborate on github
